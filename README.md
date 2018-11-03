@@ -27,7 +27,13 @@ Will output something like this:
 
 You can move the '+' around by pressing arrow keys.
 
-Modify the 'Add your code here' bit to make it output this as you move around:
+Look in `lesson1.py` for the following lines.  Put your code in there for now.
+```python
+    # Add your code here.
+    draw(x, y, '+')
+
+    # end user code
+```
 
 ```
   x:3 y:4
