@@ -9,34 +9,34 @@ By default running
 
 Will output something like this:
 
-x:5 y:5
-000000000000
-0          0
-0          0
-0          0
-0          0
-0          0
-0     +    0
-0          0
-0          0
-0          0
-0          0
-000000000000
+  x:5 y:5
+  000000000000
+  0          0
+  0          0
+  0          0
+  0          0
+  0          0
+  0     +    0
+  0          0
+  0          0
+  0          0
+  0          0
+  000000000000
 
 You can move the '+' around by pressing arrow keys.
 
 Modify the 'Add your code here' bit to make it output this as you move around:
 
-x:3 y:4
-000000000000
-0   .      0
-0   .      0
-0   .      0
-0   .      0
-0...+......0
-0   .      0
-0   .      0
-0   .      0
-0   .      0
-0   .      0
-000000000000
+  x:3 y:4
+  000000000000
+  0   .      0
+  0   .      0
+  0   .      0
+  0   .      0
+  0...+......0
+  0   .      0
+  0   .      0
+  0   .      0
+  0   .      0
+  0   .      0
+  000000000000
