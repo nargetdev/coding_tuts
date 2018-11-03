@@ -46,7 +46,7 @@ def draw_screen():
     # for i in range(10):
     #     draw(i, 6, '.')
 
-    # Alyssa, add your code here.
+    # Add your code here.
     draw(x, y, '+')
 
     # end user code
