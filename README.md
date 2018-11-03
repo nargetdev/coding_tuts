@@ -35,6 +35,9 @@ Look in `lesson1.py` for the following lines.  Put your code in there for now.
     # end user code
 ```
 
+#### Challenge 1
+Modify the code so that the output looks like this
+
 ```
   x:3 y:4
   000000000000
