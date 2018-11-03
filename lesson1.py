@@ -1,8 +1,6 @@
 import curses
 import threading
 lock = threading.RLock()
-print("Yo Alyssa you're gonna learn some coding basics and soon you will be even more baddass.")
-
 # get the curses screen window
 screen = curses.initscr()
  
@@ -49,10 +47,6 @@ def draw_screen():
     #     draw(i, 6, '.')
 
     # Alyssa, add your code here.
-    for i in range(10):
-        draw(i, y, '.')
-        draw(x, i, '.')
-
     draw(x, y, '+')
 
     # end user code
